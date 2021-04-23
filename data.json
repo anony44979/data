@@ -1,33 +1,32 @@
 {
-    "quiz": 
-    [
+    "settings": [
         {
-            "id": "1",
-            "employee_name": "Tiger Nixon",
-            "employee_salary": "320800",
-            "employee_age": "61",
-            "profile_image": "default_profile.png"
+            "id": "/%7B637544503220000004%7D/WebResources/elcn_/html/LogLevelConfigSettingEditor.html",
+            "value": "Log Level"
         },
         {
-            "id": "2",
-            "employee_name": "Garrett Winters",
-            "employee_salary": "434343",
-            "employee_age": "63",
-            "profile_image": "default_profile.png"
+            "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dLogToEventLog%26editor%3d4",
+            "value": "Log To Event Log"
         },
         {
-            "id": "3",
-            "employee_name": "Ashton Cox",
-            "employee_salary": "86000",
-            "employee_age": "66",
-            "profile_image": "default_profile.png"
+            "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dDatatelConfigurationInstalled%26editor%3d4",
+            "value": "Ellucian Configuration Installed"
         },
         {
-            "id": "4",
-            "employee_name": "Cedric Kelly",
-            "employee_salary": "433060",
-            "employee_age": "22",
-            "profile_image": "default_profile.png"
+            "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dBatchCRMDataNumThreads%26editor%3d1",
+            "value": "Number of Threads for BatchCrmData"
+        },
+        {
+            "id": "/main.aspx?etn=elcn_apiconfiguration&pagetype=entitylist",
+            "value": "API Configurations"
+        },
+        {
+            "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dEllucianServiceEndpoint%26editor%3d0",
+            "value": "Ellucian Service Endpoint"
+        },
+        {
+            "id": "/%7B637544503220000004%7D/WebResources/elcn_/html/ConfigurationSettings/DirectApplySettings.html",
+            "value": "Direct Apply"
         }
     ]
 }
