@@ -2,31 +2,33 @@
     "settings": [
         {
             "id": "/%7B637544503220000004%7D/WebResources/elcn_/html/LogLevelConfigSettingEditor.html",
-            "value": "Log Level"
+            "value": "Log Level",
+            "divid":  "LogLevel-setting"
         },
         {
             "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dLogToEventLog%26editor%3d4",
-            "value": "Log To Event Log"
+            "value": "Log To Event Log",
+            "divid":  "LogToEventLog-setting"
         },
         {
             "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dDatatelConfigurationInstalled%26editor%3d4",
-            "value": "Ellucian Configuration Installed"
+            "value": "Ellucian Configuration Installed",
+            "divid":  "DatatelConfigurationInstalled-setting"
         },
         {
             "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dBatchCRMDataNumThreads%26editor%3d1",
-            "value": "Number of Threads for BatchCrmData"
+            "value": "Number of Threads for BatchCrmData",
+            "divid":  "BatchCRMDataNumThreads-setting"
         },
         {
             "id": "/main.aspx?etn=elcn_apiconfiguration&pagetype=entitylist",
-            "value": "API Configurations"
+            "value": "API Configurations",
+            "divid":  "APIConfigurations-setting"
         },
         {
             "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dEllucianServiceEndpoint%26editor%3d0",
-            "value": "Ellucian Service Endpoint"
+            "value": "Ellucian Service Endpoint",
+            "divid":  "EllucianServiceEndpoint-setting"
         },
-        {
-            "id": "/%7B637544503220000004%7D/WebResources/elcn_/html/ConfigurationSettings/DirectApplySettings.html",
-            "value": "Direct Apply"
-        }
     ]
 }
