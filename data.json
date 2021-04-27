@@ -53,7 +53,15 @@
             "value": "Supplemental Items",
             "page": "/main.aspx?etn=datatel_supplementalinformationitem&pagetype=entitylist",
             "desc":"Supplemental Items",
-            "img":"../../Images/Trophy_Icon_32_Blue.png"
+            "img":"../../Images/EditLists32.png"
+        },
+        {
+            "value": "Duplicate Detection Rules",
+            "page": "/main.aspx?etn=duplicaterule&pagetype=entitylist",
+            "desc":"Duplicate Detection Rules",
+            "img":"../../Images/EditLists32.png"
         }
     ]
 }
+
+
