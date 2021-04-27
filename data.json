@@ -22,7 +22,7 @@
         },
         {
             "value": "API Configurations",
-            "page": "/main.aspx?etn=elcn_apiconfiguration&pagetype=entitylist#385676034",
+            "page": "/main.aspx?etn=elcn_apiconfiguration&pagetype=entitylist",
             "desc":"Record entity and attribute data changes within your organization."
         },
         {
@@ -34,6 +34,18 @@
             "value": "Direct Apply",
             "page": "DirectApplySettings.html",
             "desc":"Direct Apply"
+        },
+        {
+            "value": "Application Types",
+            "page": "main.aspx?etn=datatel_applicationtype&pagetype=entitylist",
+            "desc":"",
+            "img":"../../datatel_/Images/AppType.png"
+        },
+        {
+            "value": "Supplemental Items",
+            "page": "main.aspx?etn=datatel_supplementalinformationitem&pagetype=entitylist",
+            "desc":"",
+            "img":"../Images/Trophy_Icon_32_Blue.png"
         }
     ]
 }
