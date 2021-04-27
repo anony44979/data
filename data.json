@@ -3,48 +3,56 @@
         {
             "value": "Log Level",
             "page": "../LogLevelConfigSettingEditor.html",
-            "desc":"Sets the level of messages that should be logged."
+            "desc":"Sets the level of messages that should be logged.",
+            "img":"/_imgs/tools/ico_systemSettings.gif"
         },
         {
             "value": "Log To Event Log",
             "page":"../ConfigurationSettingEditor.html?Data=setting%3dLogToEventLog",
-            "desc":"Log To Event Log"
+            "desc":"Log To Event Log",
+            "img":"/_imgs/tools/ico_systemSettings.gif"
         },
         {
             "value": "Ellucian Configuration Installed",
             "page": "../ConfigurationSettingEditor.html?Data=setting%3dDatatelConfigurationInstalled",
-            "desc":"Determines if there is a configuration module installed on the CRM system."
+            "desc":"Determines if there is a configuration module installed on the CRM system.",
+            "img":"/_imgs/tools/ico_systemSettings.gif"
         },
         {
             "value": "Number of Threads for BatchCrmData",
             "page": "../ConfigurationSettingEditor.html?Data=setting%3dBatchCRMDataNumThreads",
-            "desc":"The number of threads to use when processing batch operations."
+            "desc":"The number of threads to use when processing batch operations.",
+            "img":"/_imgs/tools/ico_systemSettings.gif"
         },
         {
             "value": "API Configurations",
             "page": "/main.aspx?etn=elcn_apiconfiguration&pagetype=entitylist",
-            "desc":"Record entity and attribute data changes within your organization."
+            "desc":"Record entity and attribute data changes within your organization.",
+            "img":"/_imgs/tools/ico_systemSettings.gif"
         },
         {
             "value": "Ellucian Service Endpoint",
             "page": "../ConfigurationSettingEditor.html?Data=setting%3dEllucianServiceEndpoint",
-            "desc":"Endpoint for the Ellucian Service."
+            "desc":"Endpoint for the Ellucian Service.",
+            "img":"/_imgs/tools/ico_systemSettings.gif"
         },
         {
             "value": "Direct Apply",
             "page": "DirectApplySettings.html",
-            "desc":"Direct Apply"
+            "desc":"Direct Apply",
+            "img":"/_imgs/tools/ico_systemSettings.gif"
         },
         {
             "value": "Application Types",
             "page": "/main.aspx?etn=datatel_applicationtype&pagetype=entitylist",
-            "desc":"",
+            "desc":"Application Types",
             "img":"../../datatel_/Images/AppType.png"
+            
         },
         {
             "value": "Supplemental Items",
             "page": "/main.aspx?etn=datatel_supplementalinformationitem&pagetype=entitylist",
-            "desc":"",
+            "desc":"Supplemental Items",
             "img":"../Images/Trophy_Icon_32_Blue.png"
         }
     ]
