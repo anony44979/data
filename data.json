@@ -37,13 +37,13 @@
         },
         {
             "value": "Application Types",
-            "page": "main.aspx?etn=datatel_applicationtype&pagetype=entitylist",
+            "page": "/main.aspx?etn=datatel_applicationtype&pagetype=entitylist",
             "desc":"",
             "img":"../../datatel_/Images/AppType.png"
         },
         {
             "value": "Supplemental Items",
-            "page": "main.aspx?etn=datatel_supplementalinformationitem&pagetype=entitylist",
+            "page": "/main.aspx?etn=datatel_supplementalinformationitem&pagetype=entitylist",
             "desc":"",
             "img":"../Images/Trophy_Icon_32_Blue.png"
         }
