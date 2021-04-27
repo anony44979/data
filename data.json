@@ -53,7 +53,7 @@
             "value": "Supplemental Items",
             "page": "/main.aspx?etn=datatel_supplementalinformationitem&pagetype=entitylist",
             "desc":"Supplemental Items",
-            "img":"../Images/Trophy_Icon_32_Blue.png"
+            "img":"../../../Images/Trophy_Icon_32_Blue.png"
         }
     ]
 }
