@@ -1,51 +1,37 @@
 {
     "settings": [
         {
-            "id": "/%7B637544503220000004%7D/WebResources/elcn_/html/LogLevelConfigSettingEditor.html",
             "value": "Log Level",
-            "divid": "LogLevel-setting",
             "page": "../LogLevelConfigSettingEditor.html",
             "desc":"Sets the level of messages that should be logged."
         },
         {
-            "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dLogToEventLog%26editor%3d4",
             "value": "Log To Event Log",
-            "divid": "LogToEventLog-setting",
             "page":"../ConfigurationSettingEditor.html?Data=setting%3dLogToEventLog",
             "desc":"Log To Event Log"
         },
         {
-            "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dDatatelConfigurationInstalled%26editor%3d4",
             "value": "Ellucian Configuration Installed",
-            "divid": "DatatelConfigurationInstalled-setting",
             "page": "../ConfigurationSettingEditor.html?Data=setting%3dDatatelConfigurationInstalled",
             "desc":"Determines if there is a configuration module installed on the CRM system."
         },
         {
-            "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dBatchCRMDataNumThreads%26editor%3d1",
             "value": "Number of Threads for BatchCrmData",
-            "divid": "BatchCRMDataNumThreads-setting",
             "page": "../ConfigurationSettingEditor.html?Data=setting%3dBatchCRMDataNumThreads",
             "desc":"The number of threads to use when processing batch operations."
         },
         {
-            "id": "/main.aspx?etn=elcn_apiconfiguration&pagetype=entitylist",
             "value": "API Configurations",
-            "divid": "APIConfigurations-setting",
             "page": "/main.aspx?etn=elcn_apiconfiguration&pagetype=entitylist#385676034",
             "desc":"Record entity and attribute data changes within your organization."
         },
         {
-            "id": "/%7B637544503220000004%7D/WebResources/elcn_/HTML/ConfigurationSettingEditor.html?Data=setting%3dEllucianServiceEndpoint%26editor%3d0",
             "value": "Ellucian Service Endpoint",
-            "divid": "EllucianServiceEndpoint-setting",
             "page": "../ConfigurationSettingEditor.html?Data=setting%3dEllucianServiceEndpoint",
             "desc":"Endpoint for the Ellucian Service."
         },
         {
-            "id": "/%7B637544503220000004%7D/WebResources/elcn_/html/ConfigurationSettings/DirectApplySettings.html",
             "value": "Direct Apply",
-            "divid": "DirectApply-setting",
             "page": "DirectApplySettings.html",
             "desc":"Direct Apply"
         }
