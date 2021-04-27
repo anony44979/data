@@ -34,7 +34,7 @@
             "value": "Ellucian Service Endpoint",
             "page": "../ConfigurationSettingEditor.html?Data=setting%3dEllucianServiceEndpoint",
             "desc":"Endpoint for the Ellucian Service.",
-            "img":"/_imgs/tools/ico_systemSettings.gif"
+            "img":""
         },
         {
             "value": "Direct Apply",
@@ -46,7 +46,7 @@
             "value": "Application Types",
             "page": "/main.aspx?etn=datatel_applicationtype&pagetype=entitylist",
             "desc":"Application Types",
-            "img":"../../datatel_/Images/AppType.png"
+            "img":"../../Images/AppType.png"
             
         },
         {
