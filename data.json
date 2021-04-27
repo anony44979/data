@@ -46,14 +46,14 @@
             "value": "Application Types",
             "page": "/main.aspx?etn=datatel_applicationtype&pagetype=entitylist",
             "desc":"Application Types",
-            "img":"../../Images/AppType.png"
+            "img":"../../Images/EditLists32.png"
             
         },
         {
             "value": "Supplemental Items",
             "page": "/main.aspx?etn=datatel_supplementalinformationitem&pagetype=entitylist",
             "desc":"Supplemental Items",
-            "img":"../../Images/EditLists32.png"
+            "img":"../../Images/Trophy_Icon_32_Blue.png"
         },
         {
             "value": "Duplicate Detection Rules",
@@ -63,5 +63,7 @@
         }
     ]
 }
+
+
 
 
